@@ -1,0 +1,30 @@
+/* null.css 1.0 */
+html, body, a, article, aside, audio, b, button, canvas, code, div, em, figure, footer, form,
+h1, h2, h3, h4, h5, h6, header, i, iframe, img, input, label, li, main, nav, ol, p, picture, pre, q,
+section, strong, table, tbody, td, textarea, tfoot, th, thead, ul, video {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: inherit;
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+	font-style: normal;
+	line-height: 1em;
+	border: none;
+	outline: none;
+	text-decoration: inherit;
+}
+html {
+	color: #000;
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	font-style: normal;
+}
+img {
+	display: block;
+}
+code {
+	font-family: monospace;
+}
