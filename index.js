@@ -10,5 +10,5 @@ client.onreadystatechange = () => {
 		console.error("Failed to load null.css");
 	}
 };
-client.open("GET", URL + "version.json", true);
+client.open("GET", URL + "version.json", false);
 client.send();
