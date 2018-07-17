@@ -18,7 +18,6 @@ section, strong, table, tbody, td, textarea, tfoot, th, thead, ul, video {
 	padding: 0;
 	box-sizing: border-box;
 	color: inherit;
-	background: transparent;
 	font-family: inherit;
 	font-size: inherit;
 	font-weight: inherit;
